@@ -1,15 +1,5 @@
 {
-    "name": "nikodemredmann/cms",
-    "autoload": {
-        "psr-4": {
-            "Nikodemredmann\\Cms\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "nikodem",
-            "email": "nikodem.redmann@wp.pl"
-        }
-    ],
-    "require": {}
+    "require": {
+        "steampixel/simple-php-router": "^0.7.1"
+    }
 }
